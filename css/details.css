@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 2px;
+   
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+h1 {
+
+    font-size: 90px;
+    display: flex;
+    justify-content: center;
+
+}
+.entete {
+
+    font-size: 90px;
+    display: flex;
+    justify-content: center;
+    color: rgb(0, 58, 70);
+
+
+}
+p{
+padding: 2%;
+font-size: 20px;
+color: rgb(26, 52, 154);
+}
+
+button{
+    margin-top: 3%;
+    width: 100px;
+    height: 30px;
+    color: black;
+}
+a{
+    text-decoration: none;
+
+}

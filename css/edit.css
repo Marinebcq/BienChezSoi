@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 2px;
+   
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+h1 {
+
+    font-size: 90px;
+    display: flex;
+    justify-content: center;
+
+}
+
+form{
+
+display: block;
+justify-content: center;
+flex-direction: column; 
+
+}
+.entete {
+
+    font-size: 90px;
+    display: flex;
+    justify-content: center;
+    color: rgb(0, 58, 70);
+    text-decoration: none;
+
+}
+p{
+font-size: 20px;
+margin-top: 2%;
+margin-bottom: 5%;
+color: brown;
+}
+
+
+label{
+    height: 200px;
+    width: 150px;
+    font-size: 20px;
+
+}
+.submit{
+    margin-top: 5%;
+    margin-left: 5%;
+    width: 180px;
+    height: 35px;
+    color: black;
+    background-color: rgb(206, 218, 218);
+    color: rgb(252, 107, 4);
+    box-shadow: none;
+}
+
+input{
+    height: 35px;
+    width: 180px;
+}
